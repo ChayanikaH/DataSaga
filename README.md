@@ -30,4 +30,5 @@ Analysis reveals that sugar and calorie content are the most influential factors
 
 Brands with sugary cereals, like Frosted Flakes and Trix, receive lower ratings, highlighting the shift towards mindful eating. Cereal manufacturers can capitalize on these insights by focusing on fiber-rich, low-sugar options to meet consumer demand for healthier choices.
 
+![87576553_3123597757652650_141236593619894272_n](https://github.com/user-attachments/assets/1d065451-60b0-4a07-b6e4-d46819deccff)
 
