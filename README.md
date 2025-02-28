@@ -1,5 +1,5 @@
 # DataSaga
-This repository contains all of the independent project done by me in Data Visualization.
+This repository contains all of the independent project done by me in Business Intelligence & Visualization.
 
 ### Project 1 - Data Visualization - 80 cererals
 This is my first independent project, aimed at visualizing cereals and their composition to gain insights into the cereal market.
